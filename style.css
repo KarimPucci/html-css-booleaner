@@ -7,10 +7,38 @@ header {
   background-color: rgba(60, 90, 242, 0.833);
 }
 
-.colore-nome-giornale{
+.colore-nome-giornale {
   color:aqua;
 }
 
-.didascalia-tim{
+.didascalia-tim {
   font-size: smaller;
+}
+
+.paragraf {
+ margin-top: 25px;
+}
+
+.evidenziatore1 {
+  background-color: yellow;
+}
+
+.lista {
+  margin-top: 25px;
+}
+
+.tabella {
+  margin-top: 25px;
+}
+
+.paragraf2 {
+  margin-top: 25px;
+}
+
+.finale {
+  margin-top: 25px;
+}
+
+.adv-finale {
+  color: grey;
 }
